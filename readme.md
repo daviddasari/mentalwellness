@@ -1,7 +1,7 @@
 Serenity - AI-Powered Mental Wellness App
 Hackathon Project Note
 
-This project was developed as a prototype during a 12-hour hackathon. As a result, the primary focus was on implementing the core features, and not all functionalities are fully built out or connected. It serves as a proof-of-concept for an AI-powered wellness application.
+This project was developed as a prototype during a 5-hour hackathon. As a result, the primary focus was on implementing the core features, and not all functionalities are fully built out or connected. It serves as a proof-of-concept for an AI-powered wellness application.
 
 ✨ Key Features
 🤖 AI Wellness Assistant: A functional chatbot powered by the Google Gemini API to provide supportive conversation and guidance.
