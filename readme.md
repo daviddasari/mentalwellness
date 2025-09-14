@@ -1,14 +1,16 @@
 Serenity - AI-Powered Mental Wellness App
-Serenity is a modern, user-friendly web application designed to be a personal companion for mental wellness. It provides a safe and supportive space for users to track their mood, connect with friends, and access resources like an AI wellness assistant and a local therapist finder.
+Hackathon Project Note
+
+This project was developed as a prototype during a 12-hour hackathon. As a result, the primary focus was on implementing the core features, and not all functionalities are fully built out or connected. It serves as a proof-of-concept for an AI-powered wellness application.
 
 ✨ Key Features
-🤖 AI Wellness Assistant: A fully functional chatbot powered by the Google Gemini API to provide supportive conversation, answer questions, and offer guidance.
+🤖 AI Wellness Assistant: A functional chatbot powered by the Google Gemini API to provide supportive conversation and guidance.
 
-💬 Friends & Support Network: A private, real-time messaging interface to connect with trusted friends and build a personal support system.
+💬 Friends & Support Network: A UI concept for a private, real-time messaging interface to connect with trusted friends.
 
-🗺️ Therapist Locator: An interactive map (using OpenStreetMap) that allows users to find nearby mental health professionals and wellness centers.
+🗺️ Therapist Locator: An interactive map (using OpenStreetMap) that allows users to find nearby mental health professionals.
 
-🧩 Modular Design: A clean, tab-based navigation system built with React that can be easily extended with more features like mood tracking, analytics, and health monitoring.
+🧩 Modular Design: A clean, tab-based navigation system built with React that can be easily extended with more features.
 
 🎨 Sleek & Responsive UI: Styled with Tailwind CSS for a beautiful and intuitive user experience on any device.
 
@@ -80,3 +82,6 @@ npm run dev
 Open your browser and go to the URL provided (usually http://localhost:5173).
 
 You should now see the Serenity application running live on your machine!
+
+Acknowledgements
+This project was vibecoded.
